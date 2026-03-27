@@ -2,7 +2,7 @@
 
 ## Team Members
 - Abenezer Getachew
-- [Team Member 2]
+- Madison Mathews
 - [Team Member 3]
 - [Team Member 4]
 
@@ -14,7 +14,7 @@ Each team member will create their own HTML file using their name.
 
 Example:
 - abenezer_getachew.html
-- john_doe.html
+- maddie.html
 - jane_smith.html
 
 ## How to Contribute
